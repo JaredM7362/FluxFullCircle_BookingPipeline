@@ -1,0 +1,9 @@
+﻿source_file,source_row,booking_id,reject_reasons,raw_currency,revenue,check_in,check_out,num_guests,property_id
+bookings_batch1_2025-09-01.csv,259,B9001,check_out_not_after_check_in,USD,38500.0,2025-06-10,2025-06-03,2.0,P002
+bookings_batch1_2025-09-01.csv,260,B9002,missing_or_non_positive_revenue,EUR,-12300.0,2025-07-01,2025-07-04,2.0,P003
+bookings_batch1_2025-09-01.csv,261,B9003,check_out_not_after_check_in;missing_or_non_positive_revenue,USD,0.0,2025-08-15,2025-08-15,2.0,P004
+bookings_batch1_2025-09-01.csv,262,B9004,bad_num_guests;missing_or_non_positive_revenue,ZAR,,2025-09-01,2025-09-05,,P005
+bookings_batch1_2025-09-01.csv,263,B9005,bad_num_guests,USD,6400.0,2025-10-01,2025-10-03,99.0,P001
+bookings_batch1_2025-09-01.csv,264,B9006,orphan_property,GBP,12300.0,2025-11-01,2025-11-04,2.0,P099
+bookings_batch1_2025-09-01.csv,265,B9007,unknown_currency,XYZ,11000.0,2025-11-10,2025-11-12,2.0,P006
+bookings_batch2_2025-09-02.csv,41,B1059,updated_before_created,£,41000.0,2025-06-25,2025-06-30,3,P007

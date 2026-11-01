@@ -1,0 +1,7 @@
+﻿run_at,batch_file,rejected,rows_in,duplicate_in_batch,inserted,stale_ignored,updated,unchanged
+2026-11-01T20:36:46,bookings_batch1_2025-09-01.csv,7,258,2,256,0,0,0
+2026-11-01T20:36:46,bookings_batch2_2025-09-02.csv,1,39,0,19,0,15,5
+2026-11-01T20:36:47,bookings_batch2_2025-09-02.csv,1,39,0,0,0,0,39
+2026-11-01T21:21:30,bookings_batch1_2025-09-01.csv,7,258,2,0,15,0,241
+2026-11-01T21:21:30,bookings_batch2_2025-09-02.csv,1,39,0,0,0,0,39
+2026-11-01T22:46:12,bookings_batch2_2025-09-02.csv,1,39,0,0,0,0,39
